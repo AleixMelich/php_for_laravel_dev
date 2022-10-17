@@ -1,2 +1,2 @@
 <?php
-echo "<h1>holaaaaa</h1>";
+echo "<h1>holaaaaaw</h1>";
