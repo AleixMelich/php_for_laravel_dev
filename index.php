@@ -1,2 +1,4 @@
 <?php
-echo "<h1>holaaadaaw</h1>";
+//echo $greeting;
+require 'app/index.php';
+require 'resources/views/index.blade.php';
