@@ -6,3 +6,4 @@ hola
 
 # Tags
 - v0.1: Exemple Hello world de php i html
+- v0.4: min 40 video
