@@ -1,0 +1,17 @@
+{
+    "name": "aleixm/php_for_laravel_dev",
+    "description": "aleix melich",
+    "type": "project",
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "authors": [
+        {
+            "name": "AleixMex Melich",
+            "email": "aleixmelich@iesebre.com"
+        }
+    ],
+    "require": {}
+}
